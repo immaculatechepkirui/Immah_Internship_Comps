@@ -52,6 +52,27 @@ This resource will not only assist me in my job search but may also be useful fo
 
 
 
+
+
+
+### Quant
+
+| Company | Position | Location | Salary | Posting | Age |
+|---|---|---|---|---|---|
+| <a href="https://www.citadel.com/careers"><strong>Citadel</strong></a> | Software Engineer - Intern - US | New York | $125/hr | <a href="https://www.citadel.com/careers/details/software-engineer-intern-us/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://www.citadelsecurities.com/careers"><strong>Citadel Securities</strong></a> | Software Engineer - Intern - US | New York | $125/hr | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
+| <a href="https://fiverings.com/careers/"><strong>Five Rings</strong></a> | Winter Intern 2026 - Software Developer | New York | $144/hr | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 3d |
+| <a href="https://fiverings.com/careers/"><strong>Five Rings</strong></a> | Summer Intern 2026 - Software Developer | New York | $144/hr | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 3d |
+| <a href="https://akunacapital.com"><strong>Akuna Capital</strong></a> | Software Engineer Intern - C# .NET Desktop - Summer 2026 | Chicago, IL | $75/hr | <a href="https://www.akunacapital.com/job-details?gh_jid=7060377"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
+| <a href="https://akunacapital.com"><strong>Akuna Capital</strong></a> | Software Engineer Intern - C++ - Summer 2026 | Chicago, IL | $75/hr | <a href="https://www.akunacapital.com/job-details?gh_jid=6996427"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
+| <a href="https://akunacapital.com"><strong>Akuna Capital</strong></a> | Software Engineer Intern - Full Stack Web - Summer 2026 | Chicago, IL | $75/hr | <a href="https://www.akunacapital.com/job-details?gh_jid=7060087"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
+| <a href="https://akunacapital.com"><strong>Akuna Capital</strong></a> | Software Engineer Intern - Python - Summer 2026 | Chicago, IL | $75/hr | <a href="https://www.akunacapital.com/job-details?gh_jid=7055471"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 5d |
+| <a href="https://optiver.com"><strong>Optiver</strong></a> | Software Engineer Intern - Summer 2026 - Chicago | Chicago, Illinois, United States | $125/hr | <a href="https://optiver.com/working-at-optiver/career-opportunities/7973726002/?gh_jid=7973726002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 18d |
+| <a href="https://optiver.com"><strong>Optiver</strong></a> | Software Engineer Intern - Summer 2026 - Austin | Austin, Texas, United States | $125/hr | <a href="https://optiver.com/working-at-optiver/career-opportunities/7973725002/?gh_jid=7973725002"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 18d |
+| <a href="https://www.deshaw.com/careers"><strong>D. E. Shaw & Co.</strong></a> | Software Developer Intern - New York - Summer 2026 | New York | $127/hr | <a href="https://www.deshaw.com/careers/5521"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 44d |
+
+
+
 <a name="bottom"></a>
 [:arrow_up_small:Start of List](#top)
 
